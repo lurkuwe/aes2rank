@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://wallpaperaccess.com/full/3521260.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+  color: white;
+}
